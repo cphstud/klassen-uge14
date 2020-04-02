@@ -18,7 +18,7 @@ Hovedindholdet bliver jeres præsentation af Mario-opgaven. I får tid til at fo
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 14:30 | |  | | |
 | 14:45 |`Mario MVC-agtigt` |  | | |
-| 15:00 |`Car Rental MVC` | | | |
+| 15:00 |`Flowers MVC` | | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  |`Car Rental MVC` | |
 | 15:45 |`I morgen` || | |
