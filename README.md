@@ -1,7 +1,7 @@
 # Uge14: Systemudvikling og kodekvalitet med Mario
 ### torsdag d 2/4 - Gruppepræsentation af Mario-projektet
 #### Forberedelse
-I må gerne se flg [https://www.youtube.com/watch?v=J-F8PJUvVwU]
+I må gerne se flg [video om MVC](https://www.youtube.com/watch?v=J-F8PJUvVwU "Blomster refaktoreret")
 
 
 |     | Teacher |Student | Group-breakout |individual breakout |
