@@ -25,3 +25,21 @@ Hovedindholdet bliver jeres præsentation af Mario-opgaven. I får tid til at fo
 
 
 ### fredag d 3/4 - Prøveeksamen
+
+|     | Teacher |Student | Group-breakout |individual breakout |
+| --- | ------- |------- | -------------- |------------------- |
+| 08:30 |``       |        |                |                    | 
+| 08:45 |``      |        |              |                    | 
+| 09:00 |       |       | ``                ||                     
+| 09:15 |      |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
+| 09:30 |`Mathias T` |  | ||
+| 09:45 | `Janus`  |`` ||
+| 10:00 |`Emil E` |``  | | |
+| 10:15 |`Gustav`||||
+| 10:30 |`Robert` |  | | |
+| 10:45 |`Mathias H` |  |`` | |
+| 11:00 |`Tobias` | | | |
+| 11:15 |`Mohammed` ||||
+| 11:30 |`Peter` |  |`` | |
+| 11:45 |`Jacob` |``  | | |
+
